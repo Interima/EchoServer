@@ -1,0 +1,2 @@
+EchoServer is simple application that "echo" all request 
+of client through Erlang gen_server.
