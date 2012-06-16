@@ -1,0 +1,3 @@
+{application,echo}.
+{packages,[]}.
+{modules,[echo_app,echo_gen_server,echo_supervisor]}.

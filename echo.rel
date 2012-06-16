@@ -1,0 +1,8 @@
+{
+release, {"Echo Gui Server","R1"}, {erts, "5.6.2"},
+	[
+		{kernel,"2.15.1"},
+		{stdlib,"1.18.1"},
+		{echo,"1.0"}
+	]
+}.
