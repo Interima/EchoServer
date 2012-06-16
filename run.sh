@@ -1,6 +1,2 @@
 #!/bin/sh
-
-if [ -f erl ]
-	then
-	erl -boot echo
-fi	
+erl -boot echo
