@@ -38,7 +38,7 @@ Some Problems and Solutions:
   problem: error "./run.sh: No such file or directory"
   solution: cd in directory where located run.sh and do ./run.sh in shell
 
-  problem: error */EchoProject/echo-1.0/priv/client_gui.py: Permission denied
+  problem: error "*/EchoProject/echo-1.0/priv/client_gui.py: Permission denied"
   solution: exec "chmod a+x client_gui.py" (in priv directory) or
 	    exec "chmod a+x echo-1.0/priv/client_gui.py" (in priv directory) or
 	    exec "run_fix.sh" (or "sh run_fix.sh") instead of these
