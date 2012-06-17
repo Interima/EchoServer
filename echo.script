@@ -1,4 +1,4 @@
-%% script generated at {2012,6,15} {15,38,19}
+%% script generated at {2012,6,17} {15,19,34}
 {script,
     {"Echo Gui Server","R1"},
     [{preLoaded,
